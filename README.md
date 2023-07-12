@@ -1,5 +1,4 @@
 # Move-It-Using-Bootstrap
-Mobile demo site
 This is a demo website for Move It, a fictional startup that offers exceptional moving services to clients. The website displays many features and information about the company.
 
 The Move It website demo was built using HTML, CSS and Bootstrap framework. It has a fully responsive design and includes the following sections:
